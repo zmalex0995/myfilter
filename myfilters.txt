@@ -2,11 +2,11 @@
 ||api.liketech.tech^$important
 ||api.youngle.site^$important
 ||api.affiliations.tech^$important
-||api.p5ag4w.ru
-||px880.telecid.ru
-||mraid.bigo.sg
-||track.q1ou93.ru
+||api.p5ag4w.ru^$important
+||px880.telecid.ru^$important
+||mraid.bigo.sg^$important
+||track.q1ou93.ru^$important
 
-||yt3.ggpht.com
-||strm.yandex.ru
-||strm.yandex.net
+||yt3.ggpht.com^$important
+||strm.yandex.ru^$important
+||strm.yandex.net^$important
