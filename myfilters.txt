@@ -10,3 +10,4 @@
 ||yt3.ggpht.com^$important
 ||strm.yandex.ru^$important
 ||strm.yandex.net^$important
+||storage.mds.yandex.net^$important
