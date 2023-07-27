@@ -12,4 +12,5 @@
 ||strm.yandex.net^$important
 ||storage.mds.yandex.net^$important
 ||dr.yandex.net^$important
+||dr2.yandex.net^$important
 ||amc.yandex.ru^$important
